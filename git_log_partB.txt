@@ -1,0 +1,105 @@
+commit 011b55ccf3b366b69c38bcefb138618b9445e34e
+Author: Azizullah <azizullah2be1@gmail.com>
+Date:   Wed Mar 22 11:27:02 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..2ba9f0f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Development Engineer
+\ No newline at end of file
+
+commit 4eb890b7175bcce9aed45a4336357517d72d1a85
+Author: Azizullah <azizullah2be1@gmail.com>
+Date:   Wed Mar 22 11:20:55 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 1cc3df0..93663e8 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Azizullah Computer Science and Engineering
+ Mughal Darbar
+-No Country for Old Men
+\ No newline at end of file
++No Country for Old Men
++Crimson
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 2ba9f0f..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software Development Engineer
+\ No newline at end of file
+
+commit 4fe5afc765b5a595864024256d4e4befb5edce35
+Author: Azizullah <azizullah2be1@gmail.com>
+Date:   Wed Mar 22 11:13:21 2023 +0530
+
+    Committing a new file with graduation year and first job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..2ba9f0f
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Development Engineer
+\ No newline at end of file
+
+commit 40ceca251d81b73f02953d4368eb0ade3b6f3666
+Author: Azizullah <azizullah2be1@gmail.com>
+Date:   Wed Mar 22 10:52:07 2023 +0530
+
+    added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 4e996f3..1cc3df0 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+-Azizullah Computer Science and Engineering
+\ No newline at end of file
++Azizullah Computer Science and Engineering
++Mughal Darbar
++No Country for Old Men
+\ No newline at end of file
+
+commit 38e55590efd6e72a7ed71e2292f05e60658564ed
+Author: Azizullah <azizullah2be1@gmail.com>
+Date:   Wed Mar 22 10:49:33 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 9f6087d..4e996f3 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Azizullah 27539
+\ No newline at end of file
++Azizullah Computer Science and Engineering
+\ No newline at end of file
+
+commit 6e1d82ac76f213832c1c9c52ecd87b4e50e31bbb
+Author: Azizullah <azizullah2be1@gmail.com>
+Date:   Wed Mar 22 10:45:01 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..9f6087d
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Azizullah 27539
+\ No newline at end of file
